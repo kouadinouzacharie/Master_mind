@@ -100,7 +100,7 @@ export default function QuotesPage() {
         </button>
       </div>
 
-      {/* Indicateur de position (ex: 1 / 6) */}
+      {/* Indicateur de postion (ex: 1 / 6) */}
       <p className="text-center text-gray-500 mt-6 text-sm tracking-widest">
         {currentIndex + 1} / {mockQuotes.length}
       </p>
