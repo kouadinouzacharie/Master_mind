@@ -1,5 +1,5 @@
 // Fichier: app/quotes/page.tsx
-'use client'; // Indispensable pour l'interactivité (state, onClick)
+'use client';
 
 import React, { useState } from 'react';
 import QuoteCard from '../components/QuoteCard';
